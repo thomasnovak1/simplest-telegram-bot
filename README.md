@@ -1,4 +1,4 @@
-# simplest-telegram-bot
+# simplest-telegram-bots-collection
 This is the collection of simplest bots. ***WIP***
 
 ## FAQ: What is telegraf
